@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeedrocaApp.Android", "PeedrocaApp.Android\PeedrocaApp.Android.csproj", "{7388CA4A-B8CE-484A-8567-AA50904F1A2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeedrocaApp", "PeedrocaApp\PeedrocaApp.csproj", "{8275AA1D-8E10-4FAD-B470-ED3C00841B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7388CA4A-B8CE-484A-8567-AA50904F1A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7388CA4A-B8CE-484A-8567-AA50904F1A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7388CA4A-B8CE-484A-8567-AA50904F1A2C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7388CA4A-B8CE-484A-8567-AA50904F1A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7388CA4A-B8CE-484A-8567-AA50904F1A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7388CA4A-B8CE-484A-8567-AA50904F1A2C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8275AA1D-8E10-4FAD-B470-ED3C00841B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8275AA1D-8E10-4FAD-B470-ED3C00841B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8275AA1D-8E10-4FAD-B470-ED3C00841B2A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8275AA1D-8E10-4FAD-B470-ED3C00841B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8275AA1D-8E10-4FAD-B470-ED3C00841B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8275AA1D-8E10-4FAD-B470-ED3C00841B2A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E68256-0A7E-4FDA-8063-DE610F8BAB65}
+	EndGlobalSection
+EndGlobal
